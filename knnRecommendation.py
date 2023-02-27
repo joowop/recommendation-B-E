@@ -23,14 +23,12 @@ pd.set_option('max_rows', None)
 class DBHelper:
     # 서버연결
     def __init__(self, USER, PASSWORD):
-        # 실서버
-        # self.host = "3.35.245.243"
         # 개발서버
-        self.host = "15.165.252.49"
+        self.host = "..."
         self.user = USER
         self.password = PASSWORD
-        self.db = "itruck"
-        self.port = 3306
+        self.db = "..."
+        self.port = ...
         self.charset = 'utf8'
 
     def __connect__(self):
