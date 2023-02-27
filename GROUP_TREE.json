@@ -1,0 +1,335 @@
+{
+  "GROUP01": {
+    "CATEGORY": {
+      "01": ["01", "02"]
+    },
+    "MCR_AXLE": ["N", "F", "B"],
+    "MCR_WING_TOP": ["1101", "1102", "1103", "1104", "1105", "1106"]
+  },
+  "GROUP02": {
+    "CATEGORY": {
+      "01": ["01"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY"]
+  },
+  "GROUP03": {
+    "CATEGORY": {
+      "01": ["01"],
+      "11": ["01"],
+      "03": ["01", "04", "02"],
+      "12": ["03", "01"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY"]
+  },
+  "GROUP04": {
+    "CATEGORY": {
+      "01": ["01"],
+      "11": ["11"],
+      "06": ["04"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY"]
+  },
+  "GROUP05": {
+    "CATEGORY": {
+      "01": ["01"],
+      "02": ["04"]
+    },
+    "MCR_AXLE": ["B", "F"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY"]
+  },
+  "GROUP06": {
+    "CATEGORY": {
+      "01": ["01"],
+      "02": ["05", "03"]
+    }
+  },
+  "GROUP07": {
+    "CATEGORY": {
+      "01": ["01"],
+      "02": ["04", "02", "01", "06"]
+    },
+    "TB_MYCAR_OPTION": ["MPN_EXT_PWG"]
+  },
+  "GROUP08": {
+    "CATEGORY": {
+      "02": ["04", "01"]
+    },
+    "TB_MYCAR_OPTION": ["MPN_EXT_PWG"]
+  },
+  "GROUP09": {
+    "CATEGORY": {
+      "02": ["04", "01", "02"]
+    },
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY", "MPN_EXT_PWG"]
+  },
+  "GROUP10": {
+    "CATEGORY": {
+      "02": ["04", "05", "01"]
+    },
+    "MCR_AXLE": ["F", "B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_WID"]
+  },
+  "GROUP11": {
+    "CATEGORY": {
+      "02": ["04", "05", "01"]
+    },
+    "MCR_AXLE": ["F", "B"],
+    "MCR_WING_TOP": ["1106"],
+    "MCR_LOADER_WID": ["광폭(최소)", "광폭(최소)"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_PWG", "MPN_EXT_WID"]
+  },
+  "GROUP12": {
+    "CATEGORY": {
+      "02": ["04", "01", "05", "03"]
+    },
+    "MCR_AXLE": ["F", "B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_PWG"]
+  },
+  "GROUP13": {
+    "CATEGORY": {
+      "02": ["04", "01"]
+    },
+    "MCR_AXLE": ["F", "B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY", "MPN_EXT_PWG"]
+  },
+  "GROUP14": {
+    "CATEGORY": {
+      "02": ["04", "01"]
+    },
+    "MCR_WING_TOP": ["1106"]
+  },
+  "GROUP15": {
+    "CATEGORY": {
+      "02": ["04", "01"]
+    },
+    "MCR_WING_TOP": ["1102", "1103", "1106"]
+  },
+  "GROUP16": {
+    "CATEGORY": {
+      "02": ["04", "01"]
+    },
+    "MCR_WING_TOP": ["1102", "1103", "1106"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY", "MPN_EXT_SUB"]
+  },
+  "GROUP17": {
+    "CATEGORY": {
+      "02": ["04", "01"]
+    },
+    "MCR_WING_TOP": ["1102", "1103", "1106"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY", "MPN_EXT_SUB"]
+  },
+  "GROUP18": {
+    "CATEGORY": {
+      "02": ["04", "01"]
+    },
+    "MCR_WING_TOP": ["1106", "1105"]
+  },
+  "GROUP19": {
+    "CATEGORY": {
+      "01": ["01"],
+      "02": ["04", "05"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY", "MPN_EXT_PWG"]
+  },
+  "GROUP20": {
+    "CATEGORY": {
+      "02": ["04", "05", "01"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY", "MPN_EXT_PWG"]
+  },
+  "GROUP21": {
+    "CATEGORY": {
+      "02": ["05", "04"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY"]
+  },
+  "GROUP22": {
+    "CATEGORY": {
+      "01": ["01"],
+      "02": ["05", "04"],
+      "11": ["01", "08", "09"],
+      "12": ["07", "08"]
+    }
+  },
+  "GROUP23": {
+    "CATEGORY": {
+      "01": ["01"],
+      "11": ["01", "02", "04"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY", "MPN_EXT_PWG", "MPN_EXT_SFL"]
+  },
+  "GROUP24": {
+    "CATEGORY": {
+      "06": ["03"]
+    }
+  },
+  "GROUP25": {
+    "CATEGORY": {
+      "11": ["01", "11"],
+      "03": ["01"]
+    }
+  },
+  "GROUP26": {
+    "CATEGORY": {
+      "11": ["01", "11"],
+      "03": ["01"],
+      "06": ["04", "02"]
+    }
+  },
+  "GROUP27": {
+    "CATEGORY": {
+      "11": ["01", "05"],
+      "12": ["04"]
+    }
+  },
+  "GROUP28": {
+    "CATEGORY": {
+      "08": ["03", "01"]
+    },
+    "TB_MYCAR_OPTION": ["MPN_EXT_SFL"]
+  },
+  "GROUP29": {
+    "CATEGORY": {
+      "08": ["02", "01"]
+    },
+    "TB_MYCAR_OPTION": ["MPN_EXT_SFL"]
+  },
+  "GROUP30": {
+    "CATEGORY": {
+      "07": ["01", "02"]
+    }
+  },
+  "GROUP31": {
+    "CATEGORY": {
+      "03": ["02", "07"]
+    }
+  },
+  "GROUP32": {
+    "CATEGORY": {
+      "05": ["02"]
+    }
+  },
+  "GROUP33": {
+    "CATEGORY": {
+      "05": ["04"],
+      "11": ["07"],
+      "12": ["06"]
+    }
+  },
+  "GROUP34": {
+    "CATEGORY": {
+      "05": ["03"],
+      "11": ["07"],
+      "12": ["06"]
+    }
+  },
+  "GROUP35": {
+    "CATEGORY": {
+      "05": ["01"],
+      "11": ["06", "01"],
+      "12": ["05"]
+    }
+  },
+  "GROUP36": {
+    "CATEGORY": {
+      "05": ["01"],
+      "11": ["06", "01"],
+      "12": ["05"]
+    }
+  },
+  "GROUP37": {
+    "CATEGORY": {
+      "05": ["01"],
+      "11": ["06", "01"],
+      "12": ["05"]
+    }
+  },
+  "GROUP38": {
+    "CATEGORY": {
+      "05": ["01"],
+      "11": ["06", "01"],
+      "12": ["05"]
+    }
+  },
+  "GROUP39": {
+    "CATEGORY": {
+      "05": ["01"],
+      "11": ["06", "01"],
+      "12": ["05"]
+    }
+  },
+  "GROUP40": {
+    "CATEGORY": {
+      "05": ["01"],
+      "11": ["06", "01"],
+      "12": ["05"]
+    }
+  },
+  "GROUP41": {
+    "CATEGORY": {
+      "05": ["01"],
+      "11": ["06", "01"],
+      "12": ["05"]
+    }
+  },
+  "GROUP42": {
+    "CATEGORY": {
+      "06": ["05"]
+    }
+  },
+  "GROUP43": {
+    "CATEGORY": {
+      "04": ["04"],
+      "06": ["02"]
+    }
+  },
+  "GROUP44": {
+    "CATEGORY": {
+      "06": ["01", "04"]
+    }
+  },
+  "GROUP45": {
+    "CATEGORY": {
+      "01": ["01"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY"]
+  },
+  "GROUP46": {
+    "CATEGORY": {
+      "01": ["01"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY"]
+  },
+  "GROUP47": {
+    "CATEGORY": {
+      "04": ["02"]
+    },
+    "MCR_AXLE": ["B"],
+    "TB_MYCAR_OPTION": ["MPN_EXT_HVY"]
+  },
+  "GROUP48": {
+    "CATEGORY": {
+      "04": ["01"]
+    }
+  },
+  "GROUP49": {
+    "CATEGORY": {
+      "11": ["01", "03"],
+      "12": ["02"]
+    }
+  },
+  "GROUP50": {
+    "CATEGORY": {
+      "05": ["05"]
+    }
+  }
+}
